@@ -2,3 +2,8 @@
 
 - TS config practice
 - Explicit types practice
+
+### Lesson 02
+
+- data types
+- intellisense and functions outcome
