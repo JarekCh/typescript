@@ -7,3 +7,8 @@
 
 - data types
 - intellisense and functions outcome
+
+### Lesson 02
+
+- arrays
+- tuples

@@ -1,0 +1,11 @@
+"use strict";
+let stringArr = ['one', 'hey', 'Jarek'];
+let guitars = ['Strat', 'Les Paul', 5150];
+let mixedData = ['EVH', 1999, true];
+stringArr[0] = 'john';
+stringArr.push('42');
+guitars[0] = 1984;
+guitars.unshift('Jim');
+let test = [];
+let bands = [];
+bands.push('van halaen');
