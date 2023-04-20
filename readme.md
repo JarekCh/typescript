@@ -12,3 +12,5 @@
 
 - arrays
 - tuples
+- objects
+- enums
