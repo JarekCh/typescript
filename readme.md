@@ -8,9 +8,20 @@
 - data types
 - intellisense and functions outcome
 
-### Lesson 02
+### Lesson 03
 
 - arrays
 - tuples
 - objects
 - enums
+
+### Lesson 04
+
+- Type Aliases
+- Literal types
+- Functions
+- optional parameters
+- default param value
+- Rest Parameters
+- custom type guard
+- use of the never type
