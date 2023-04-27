@@ -25,3 +25,7 @@
 - Rest Parameters
 - custom type guard
 - use of the never type
+
+### Lesson 05
+
+- Assertion
