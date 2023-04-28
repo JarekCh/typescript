@@ -29,3 +29,7 @@
 ### Lesson 05
 
 - Assertion
+
+### Lesson 06
+
+- Classes
