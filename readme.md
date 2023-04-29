@@ -33,3 +33,8 @@
 ### Lesson 06
 
 - Classes
+
+### Lesson 07
+
+- Index Signature
+- keyof Assertions
