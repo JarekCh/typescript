@@ -38,3 +38,7 @@
 
 - Index Signature
 - keyof Assertions
+
+### Lesson 08
+
+- Generics
