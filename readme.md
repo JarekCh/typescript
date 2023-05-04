@@ -47,6 +47,10 @@
 
 - Utility Types
 
-###
+### Lesson 10
 
 - Vite + TS
+
+###
+
+- todo list (TS)
