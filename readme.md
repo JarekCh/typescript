@@ -59,6 +59,10 @@
 
 - React + TS
 
-### Lesson 12
+### Lesson 13
 
 - React -> Hooks + TS
+
+### Lesson 14
+
+- React -> useReducer + TS
