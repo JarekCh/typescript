@@ -1,3 +1,5 @@
+# Type Script Practise
+
 ### Lesson 01
 
 - TS config practice
