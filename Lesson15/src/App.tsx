@@ -1,10 +1,13 @@
 import './App.css';
 import Counter from './Counter';
+import { CounterProvider } from './context/CounterContext';
 
 function App() {
   return (
     <>
-      <Counter>{(num: number) => <>Current Count: {num}</>}</Counter>
+      <CounterProvider>
+        <Counter>{(num: number) => <>Current Count: {num}</>}</Counter>
+      </CounterProvider>
     </>
   );
 }
