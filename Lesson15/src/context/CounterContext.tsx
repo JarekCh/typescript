@@ -92,6 +92,7 @@ type UseCounterHookType = {
   decrement: () => void;
 };
 
+// custom hook count state managment
 export const useCounter = (): UseCounterHookType => {
   const {
     state: { count },
@@ -106,6 +107,7 @@ type UseCounterTextHookType = {
   handleTextInput: (e: ChangeEvent<HTMLInputElement>) => void;
 };
 
+// custom hook text state managment
 export const useCounterText = (): UseCounterTextHookType => {
   const {
     state: { text },
